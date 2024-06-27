@@ -1,6 +1,6 @@
 # 🎯 Credit Risk Assessment
 
-Welcome to the Credit Risk Assessment project! 🎉 This repository is your one-stop-shop for predicting credit risk using the mighty power of the XGBoost classifier (and a few other models we threw in for fun).
+Welcome to the Credit Risk Assessment project! 🎉 This repository is your one-stop-shop for predicting credit risk using the mighty power of the XGBoost classifier (and a few other models I threw in for fun).
 
 ## 📂 What's Inside?
 
